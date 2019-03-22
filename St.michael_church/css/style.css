@@ -1,0 +1,25 @@
+p
+{
+    padding:10px;
+    margin: 20px;
+}
+
+body
+{
+  
+    background-image: url(maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+table
+{
+
+    background-color: darkorange;  
+width:80%;
+    height: auto;
+border:2px;
+    border-collapse: collapse;
+    border-color: antiquewhite;
+    border-radius: 20px;
+}
